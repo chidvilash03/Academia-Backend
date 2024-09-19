@@ -18,6 +18,5 @@ namespace DatabaseAccessLayer.Entities
 
         // Foreign key to Hostel
         public int HostelId { get; set; }
-        //public Hostel Hostel { get; set; }
     }
 }

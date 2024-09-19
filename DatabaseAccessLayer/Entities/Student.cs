@@ -21,11 +21,8 @@ namespace DatabaseAccessLayer.Entities
 
         //Foreign Key to Class
         public int ClassId { get; set; }
-        //public Class Class { get; set; }
-
         //Foreign key to Section
         public int SectionId { get; set; }
-        //public Section Section { get; set; }
 
         public string MotherTongue { get; set; }
         public string Religion { get; set; }
