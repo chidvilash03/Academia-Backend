@@ -1,0 +1,15 @@
+C:\Users\chidv\source\repos\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+C:\Users\chidv\source\repos\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+C:\Users\chidv\source\repos\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+C:\Users\chidv\source\repos\ServiceLayer\bin\Debug\net8.0\DatabaseAccessLayer.dll
+C:\Users\chidv\source\repos\ServiceLayer\bin\Debug\net8.0\DatabaseAccessLayer.pdb
+C:\Users\chidv\source\repos\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\chidv\source\repos\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chidv\source\repos\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\chidv\source\repos\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\chidv\source\repos\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\chidv\source\repos\ServiceLayer\obj\Debug\net8.0\ServiceL.3037F684.Up2Date
+C:\Users\chidv\source\repos\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+C:\Users\chidv\source\repos\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+C:\Users\chidv\source\repos\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+C:\Users\chidv\source\repos\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll

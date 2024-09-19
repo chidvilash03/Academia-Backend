@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DatabaseAccessLayer",
+    "\\DatabaseAccessLayer\\Data",
+    "\\DatabaseAccessLayer\\Entities",
+    "\\DatabaseAccessLayer\\Migrations",
+    "\\DatabaseAccessLayer\\obj",
+    "\\DatabaseAccessLayer\\Repositories",
+    "\\ServiceLayer",
+    "\\ServiceLayer\\Implementations",
+    "\\ServiceLayer\\Interfaces"
+  ],
+  "SelectedNode": "\\AcademiaHub\\AcademiaHub.csproj",
+  "PreviewInSolutionExplorer": false
+}

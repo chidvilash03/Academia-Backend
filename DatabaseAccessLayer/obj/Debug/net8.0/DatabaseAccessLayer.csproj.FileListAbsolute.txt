@@ -1,0 +1,14 @@
+C:\Users\chidv\source\repos\DatabaseAccessLayer\bin\Debug\net8.0\DatabaseAccessLayer.deps.json
+C:\Users\chidv\source\repos\DatabaseAccessLayer\bin\Debug\net8.0\DatabaseAccessLayer.runtimeconfig.json
+C:\Users\chidv\source\repos\DatabaseAccessLayer\bin\Debug\net8.0\DatabaseAccessLayer.dll
+C:\Users\chidv\source\repos\DatabaseAccessLayer\bin\Debug\net8.0\DatabaseAccessLayer.pdb
+C:\Users\chidv\source\repos\DatabaseAccessLayer\obj\Debug\net8.0\DatabaseAccessLayer.csproj.AssemblyReference.cache
+C:\Users\chidv\source\repos\DatabaseAccessLayer\obj\Debug\net8.0\DatabaseAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chidv\source\repos\DatabaseAccessLayer\obj\Debug\net8.0\DatabaseAccessLayer.AssemblyInfoInputs.cache
+C:\Users\chidv\source\repos\DatabaseAccessLayer\obj\Debug\net8.0\DatabaseAccessLayer.AssemblyInfo.cs
+C:\Users\chidv\source\repos\DatabaseAccessLayer\obj\Debug\net8.0\DatabaseAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\chidv\source\repos\DatabaseAccessLayer\obj\Debug\net8.0\DatabaseAccessLayer.dll
+C:\Users\chidv\source\repos\DatabaseAccessLayer\obj\Debug\net8.0\refint\DatabaseAccessLayer.dll
+C:\Users\chidv\source\repos\DatabaseAccessLayer\obj\Debug\net8.0\DatabaseAccessLayer.pdb
+C:\Users\chidv\source\repos\DatabaseAccessLayer\obj\Debug\net8.0\DatabaseAccessLayer.genruntimeconfig.cache
+C:\Users\chidv\source\repos\DatabaseAccessLayer\obj\Debug\net8.0\ref\DatabaseAccessLayer.dll
